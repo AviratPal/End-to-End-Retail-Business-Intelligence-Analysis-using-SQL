@@ -45,28 +45,27 @@ The objective is to understand revenue generation, customer purchasing behavior,
 
 ### 7. Revenue Lost Due to Discounts
 - The total revenue lost due to discounts amounts to **$255,229**.
-- This represents **__________%** of the potential revenue.
 - The effectiveness of discount strategies should be evaluated against the additional sales generated.
 
 ---
 
 ### 8. Revenue Contribution by Store
-- Store **__________** contributes the highest share of revenue at **__________%**.
-- Revenue distribution across stores indicates **__________** performance balance.
+- Store **Balwin Bikes** contributes the highest share of revenue at **$1,455,675**.
+- Revenue distribution across stores indicates an **uneven ** performance balance.
 - Underperforming stores may require targeted improvement strategies.
 
 ---
 
 ### 9. Store with Highest Average Order Value
-- Store **__________** has the highest average order value of **__________**.
+- Store **Baldwin Bikes** has the highest average order value of **$1,442**.
 - This suggests stronger customer purchasing power or premium product offerings at this location.
 - Store-level strategies may be influencing customer spending behavior.
 
 ---
 
 ### 10. Revenue Split by Product Category
-- Category **__________** generates the highest revenue contribution at **__________%**.
-- Customers show a clear preference for **__________** categories.
+- Category **Cruiser Bicycles** generates the highest revenue contribution at **$887,937**.
+- Customers show a clear preference for **Cruiser Bicycles** categories.
 - Lower-performing categories may require pricing or promotional optimization.
 
 ---
